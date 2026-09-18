@@ -1,0 +1,6 @@
+{
+  "name": "Carte des Départements Français",
+  "description": "Carte interactive et colorée des départements français avec préfectures, grandes villes et régions administratives.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
